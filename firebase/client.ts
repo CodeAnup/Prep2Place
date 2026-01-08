@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore} from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBgLak0dW_KCHfpp-44VQbY1uYTn0yuR0Y",
+  apiKey: "AIzaSyBNO-1K3chLubaIeGQV0oCCNE2FfSWiMhY",
   authDomain: "prep2place-17f49.firebaseapp.com",
   projectId: "prep2place-17f49",
   storageBucket: "prep2place-17f49.firebasestorage.app",
